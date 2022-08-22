@@ -1,6 +1,1 @@
-Knowledge
-Very experienced: Git GitHub HTML5 React Native CSS3 JavaScript Expo Laravel Docker Java
-
-Experienced: React Flutter Figma C++ Firebase PHP MySQL SQLite
-
-Interested on: Next JS Vue.js
+Tenho 18 anos, formado em técnico em informática no IFSC, cursando Sistemas de Informação na UnoChapecó. No segundo periodo da faculdade estou iniciado um estadio como programador web.
