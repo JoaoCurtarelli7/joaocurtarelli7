@@ -17,7 +17,7 @@ I am 18 years old, graduated in IT technician at IFSC, studying Information Syst
 
 
 ### Experiencia basico 
-<h2 dir="auto"><a id="user-content-knowledge" class="anchor" aria-hidden="true" href="#knowledge">/>Linguagens</h2>
+<h2 dir="auto">Linguagens</h2>
 
 <a target="_blank" rel="noopener noreferrer" href=""><img src="" alt="" data-canonical-src="" style="max-width: 100%;"></a>
 
