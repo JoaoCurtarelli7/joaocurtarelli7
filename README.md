@@ -1,5 +1,4 @@
-Tenho 18 anos, formado em técnico em informática no IFSC, cursando Sistemas de Informação na UnoChapecó. No segundo periodo da faculdade estou iniciado um estadio como programador web.
-
+I am 18 years old, graduated in IT technician at IFSC, studying Information Systems at UnoChapecó. In the second period of college I am starting an internship as a web programmer.
 
 ### Experiencia:
 
@@ -12,4 +11,11 @@ Tenho 18 anos, formado em técnico em informática no IFSC, cursando Sistemas de
   
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f6d50128cb007f85916b7a899da5d94f654dce35a37331c8d28573aef46f4274/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/f6d50128cb007f85916b7a899da5d94f654dce35a37331c8d28573aef46f4274/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
  
+ 
+ <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/85b8858163097e34c31ef8eeda533e1fa18be0ec8ce58f494b6b5cedc2f27196/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6172617"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" data-canonical-src=" https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" style="max-width: 100%;"></a>
+
+
+ 
+ 
+<a target="_blank" rel="noopener noreferrer" href=""><img src="" alt="" data-canonical-src="" style="max-width: 100%;"></a>
 </div>
