@@ -1,10 +1,10 @@
-<h2 dir="auto">About me</h2>
+<h2 dir="auto">Sobre mim</h2>
 
 Possuo 20 anos de idade e sou detentor do título de Técnico em Informática, obtido no Instituto Federal de Santa Catarina (IFSC). Atualmente, encontro-me no quinto período do curso de Sistemas de Informação na Universidade do Oeste de Santa Catarina (UnoChapecó). Ao longo de minha trajetória acadêmica, tenho mantido um desempenho consistente, demonstrando dedicação e interesse nas disciplinas correlatas à minha área de estudo.
 
 Com uma sólida formação técnica e acadêmica, venho desempenhando a função de Desenvolvedor Web Júnior por aproximadamente um ano e meio. Durante este período, busquei incessantemente desafios que pudessem contribuir para a ampliação de meu conhecimento e aprimoramento de minhas habilidades profissionais. Acredito na importância contínua do aprendizado e, por conseguinte, mantenho-me constantemente atualizado com as mais recentes tendências e tecnologias pertinentes ao universo da desenvolvimento web.
 
-<h2 dir="auto">Experience</h2>
+<h2 dir="auto">Experiência</h2>
 
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -16,7 +16,7 @@ Com uma sólida formação técnica e acadêmica, venho desempenhando a função
 
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
-<h2 dir="auto">Basic experience</h2>
+<h2 dir="auto">Básica experiência</h2>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -36,7 +36,7 @@ Com uma sólida formação técnica e acadêmica, venho desempenhando a função
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<h2 dir="auto">Interested</h2>
+<h2 dir="auto">Interesse em Aprender</h2>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
